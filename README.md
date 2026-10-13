@@ -1,18 +1,10 @@
-# minihomo
+# guoba (minihomo)
 
-## 功能
+> ⚠️ 当前项目停滞当中~
 
-0. 托盘
-    - 左键面板
-    - 右键控制台
-1. 面板
-    - 自动下载/更新
-    - 转发
-2. 核心
-    - 自动下载/更新
-3. 个性化功能
-    - 指定wifi关闭
--a--- 7.1M 2026-03-29 14:58 .\target\release\guoba.exe
--a--- 6.1M 2026-03-29 15:00 .\target\release\guoba.exe
--a--- 6.1M 2026-03-29 15:00 .\target\release\guoba.exe
--a--- 6.1M 2026-03-29 15:00 .\target\release\guoba.exe
+跨平台的极简 mihomo 客户端。仅托盘 + Web 注入，实现高效管理，几乎纯内核。
+
+- 配置简单合并
+- 托盘：左键面板，右键控制台
+- 面板：内核自动下载/更新、转发
+- 个性化：指定 WiFi 自动关闭
